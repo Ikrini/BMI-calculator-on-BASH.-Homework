@@ -6,4 +6,11 @@ USA metric: pounds and inches
 1. The parameters weight and height are passed as parameters to the script.
 1. The user should be able to pass parameters in a different order.
 
-## BMI Formula: 
+### BMI Formula: 
+![GitHub Logo](/images/bmi.png)
+Format: ![Alt text](url)
+
+### BMI categories:
+![GitHub Logo](/images/bmi_interpret.png)
+
+###
