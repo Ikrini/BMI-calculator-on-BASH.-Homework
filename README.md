@@ -8,7 +8,7 @@ USA metric: pounds and inches
 
 ### BMI Formula: 
 ![GitHub Logo](/images/bmi.png)
-Format: ![Alt text](url)
+
 
 ### BMI categories:
 ![GitHub Logo](/images/bmi_interpret.png)
